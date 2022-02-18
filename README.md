@@ -37,7 +37,7 @@ Groww is an investing platform where users can find the best mutual funds to inv
 <h4>To run, follow these steps:</h4>
 
   <ul>
-    <li>Clone my repository https://github.com/Jerry-29/Clone-of-Groww-frontend</li>
+    <li>Clone my repository https://github.com/29ab/Groww-clone_Fontend</li>
     <li>Open that code in your Code Editor</li>
     <li>Open the index.html on Live server</li>
     <li>Thats all !</li>
